@@ -1,0 +1,29 @@
+tr,
+table,
+td {
+    border: 2px solid green;
+    border-spacing: 0px;
+}
+
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+    justify-content: center;
+    margin-left: 180px;
+    margin-top: 80px;
+    border: 2px solid greenyellow;
+
+}
+
+.search {
+    position: relative;
+    left: 300px;
+    top: 30px;
+    width: 70%;
+    color: grey;
+}
+
+* {
+    background-color:yellow;
+}
